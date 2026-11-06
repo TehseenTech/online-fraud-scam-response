@@ -1,5 +1,6 @@
 # Online Financial Fraud & Scam Response
 
+<p align="center"><strong>SECURITY RESOURCE / DIGITAL FORENSICS / AUTHORIZED USE</strong></p>
 > Educational, safety-first guidance for people responding to cyber incidents. This project is independent and is not a law-enforcement agency, law firm, bank, telecom operator, or account-recovery service.
 
 A Pakistan-focused, evidence-first guide for responding to online payment fraud, impersonation scams, phishing, and unauthorized transactions.
